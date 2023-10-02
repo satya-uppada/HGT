@@ -1,5 +1,5 @@
 # Node Project Template
-> Starter template for creating a Node.js project including docs and a deploy pipeline...
+> Starter template for creating a Node.js project including docs and a deploy pipeline....
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
